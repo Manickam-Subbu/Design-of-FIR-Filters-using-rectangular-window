@@ -1,7 +1,7 @@
 # Design-of-FIR-Filters-using-rectangular-window
 #          DESIGN OF LOW PASS FIR DIGITAL FILTER 
-## NAME : S PUGAZHENDHI
-## REG NO.:212223060214
+## NAME : Manickam Subbu
+## REG NO.:212223060147
 
 # AIM: 
           
